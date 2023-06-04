@@ -1,0 +1,13 @@
+td.right{
+    border-right: 2px solid black;
+    width: 200px;
+    height: 150px;
+}
+.bottom{
+    border-top: 2px solid black;
+}
+table{
+    border-left: 4px solid black;
+    border-right: 4px solid black;
+    border-bottom: 4px solid black;
+}
